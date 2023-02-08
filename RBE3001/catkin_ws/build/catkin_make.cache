@@ -1,0 +1,2 @@
+RBE3002_D22_Team04/rbe3002_lab2:RBE3002_D22_Team04/rbe3002_lab3:RBE3002_template:beginner_tutorials:learning_tf:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/patrick/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/patrick/catkin_ws/install -G Unix Makefiles

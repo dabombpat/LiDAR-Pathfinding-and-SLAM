@@ -1,0 +1,24 @@
+#test
+Github Token ::
+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
+
+For Gazebo Simulation:
+
+In First Terminal:
+>> roscore
+
+In Second Terminal:
+>> export TURTLEBOT3_MODEL=burger
+>> roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
+
+In Third Terminal:
+>> export TURTLEBOT3_MODEL=burger
+>> roslaunch turtlebot3_gazebo turtlebot3_gazebo_rviz.launch
+
+In Fourth Terminal:
+>> rosrun rbe3002_lab2 lab2.py
+
+
+ssh ubuntu@bowser.dyn.wpi.edu
+
+
