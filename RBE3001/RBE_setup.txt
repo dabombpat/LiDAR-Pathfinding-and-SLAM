@@ -1,7 +1,3 @@
-#test
-Github Token ::
-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
-
 For Gazebo Simulation:
 
 In First Terminal:
